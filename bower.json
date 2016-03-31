@@ -1,0 +1,19 @@
+{
+  "name": "angular-input-masks",
+  "version": "2.2.1",
+  "main": "./releases/angular-input-masks-standalone.js",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.4.8"
+  },
+  "homepage": "https://github.com/t-evans/angular-input-masks",
+  "_release": "2.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.1",
+    "commit": "cc1d9740059f5e8fd43abf0e2e80695d43b3b6b1"
+  },
+  "_source": "git@github.com:t-evans/angular-input-masks.git",
+  "_target": "~2.2.0",
+  "_originalSource": "angular-input-masks"
+}
