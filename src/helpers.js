@@ -49,7 +49,7 @@ m.factory('PreFormatters', [function() {
 			if (decimals > 0) {
 				mask += decimalDelimiter;
 				for (var i = 0; i < decimals; i++) {
-					mask += '0';
+					mask += '#';
 				}
 			}
 
@@ -63,7 +63,7 @@ m.factory('PreFormatters', [function() {
 			if (decimals > 0) {
 				mask += '.';
 				for (var i = 0; i < decimals; i++) {
-					mask += '0';
+					mask += '#';
 				}
 			}
 
